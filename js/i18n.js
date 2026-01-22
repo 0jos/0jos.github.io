@@ -313,7 +313,7 @@
       // Resources Full Guide Content
       'resources.guide.hotlines.title': 'Emergency Legal Hotlines',
       'resources.guide.hotlines.desc': 'If you or someone you know needs immediate legal assistance:',
-      'resources.guide.hotlines.raices': 'RAICES: 1-800-354-9365 - Free legal services for immigrant families',
+      'resources.guide.hotlines.raices': 'RAICES: 1 (800) 354-0365 - Free legal services for immigrant families',
       'resources.guide.hotlines.nijc': 'National Immigrant Justice Center: (212) 629-6335',
       'resources.guide.hotlines.aclu': 'ACLU Immigrants\' Rights: (212) 549-1200',
       'resources.guide.orgs.title': 'Community Organizations',
@@ -675,7 +675,7 @@
       // Resources Full Guide Content
       'resources.guide.hotlines.title': '紧急法律热线',
       'resources.guide.hotlines.desc': '如果您或您认识的人需要即时法律援助：',
-      'resources.guide.hotlines.raices': 'RAICES：1-800-354-9365 - 为移民家庭提供免费法律服务',
+      'resources.guide.hotlines.raices': 'RAICES：1 (800) 354-0365 - 为移民家庭提供免费法律服务',
       'resources.guide.hotlines.nijc': '全国移民正义中心：(212) 629-6335',
       'resources.guide.hotlines.aclu': 'ACLU移民权利：(212) 549-1200',
       'resources.guide.orgs.title': '社区组织',
@@ -1037,7 +1037,7 @@
       // Resources Full Guide Content
       'resources.guide.hotlines.title': '緊急法律熱線',
       'resources.guide.hotlines.desc': '如果您或您認識的人需要即時法律援助：',
-      'resources.guide.hotlines.raices': 'RAICES：1-800-354-9365 - 為移民家庭提供免費法律服務',
+      'resources.guide.hotlines.raices': 'RAICES：1 (800) 354-0365 - 為移民家庭提供免費法律服務',
       'resources.guide.hotlines.nijc': '全國移民正義中心：(212) 629-6335',
       'resources.guide.hotlines.aclu': 'ACLU移民權利：(212) 549-1200',
       'resources.guide.orgs.title': '社區組織',
