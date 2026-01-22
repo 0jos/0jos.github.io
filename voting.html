@@ -287,6 +287,14 @@
             <span>Civic Compass</span>
           </div>
           <p data-i18n="footer.tagline">Empowering our community through civic education.</p>
+          <div class="footer-social">
+            <a href="https://www.instagram.com/civiccompassnyc" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="18" cy="6" r="1" fill="currentColor"/></svg>
+            </a>
+            <a href="mailto:chinatownciviccompass@gmail.com" aria-label="Email">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+            </a>
+          </div>
         </div>
 
         <div>
@@ -295,6 +303,7 @@
             <li><a href="index.html" data-i18n="nav.home">Home</a></li>
             <li><a href="rights.html" data-i18n="nav.rights">Your Rights</a></li>
             <li><a href="resources.html" data-i18n="nav.resources">Resources</a></li>
+            <li><a href="news.html" data-i18n="nav.news">News</a></li>
             <li><a href="faq.html" data-i18n="nav.faq">FAQ</a></li>
           </ul>
         </div>
@@ -309,22 +318,36 @@
           </ul>
         </div>
 
-        <!-- Feedback - HIDDEN FOR DEMO (restore when form is ready)
         <div>
-          <h4 class="footer-heading" data-i18n="footer.feedback">Share Feedback</h4>
-          <p style="font-size: 0.875rem; color: rgba(255,255,255,0.7); margin-bottom: 1rem;" data-i18n="footer.feedback.desc">Help us improve this resource for our community.</p>
-          <a href="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform" target="_blank" rel="noopener noreferrer" class="feedback-btn" data-i18n="footer.feedback.btn">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-              <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
-            </svg>
-            Give Feedback
-          </a>
+          <h4 class="footer-heading" data-i18n="footer.newsletter">Stay Updated</h4>
+          <p style="font-size: 0.875rem; color: rgba(255,255,255,0.7); margin-bottom: 1rem;" data-i18n="footer.newsletter.desc">Get the latest resources and community updates.</p>
+          <a href="https://civiccompass.substack.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="width: 100%; text-align: center;" data-i18n="footer.newsletter.btn">Subscribe on Substack</a>
         </div>
-        -->
+      </div>
+
+      <div class="footer-partners">
+        <span data-i18n="footer.partners">Special thanks to:</span>
+        <a href="https://www.aclu.org/issues/immigrants-rights" target="_blank" rel="noopener noreferrer" style="color: rgba(255,255,255,0.8);">ACLU Immigrants' Rights</a>
+        <a href="https://www1.villanova.edu/university/law/academics/viista.html" target="_blank" rel="noopener noreferrer" style="color: rgba(255,255,255,0.8);">Villanova VIISTA</a>
+        <a href="https://outcounsel.com" target="_blank" rel="noopener noreferrer" style="color: rgba(255,255,255,0.8);">OutCounsel</a>
+        <span style="color: rgba(255,255,255,0.8);">OLA of Eastern Long Island</span>
       </div>
 
       <div class="footer-bottom">
         <p>&copy; 2025 Chinatown Civic Compass. <span data-i18n="footer.rights">All rights reserved.</span></p>
+        <div class="language-selector">
+          <button class="language-btn" aria-expanded="false" aria-haspopup="true" style="background: rgba(255,255,255,0.1); border-color: rgba(255,255,255,0.2); color: white;">
+            <span data-i18n="lang.current">EN</span>
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true">
+              <path d="M2.5 4.5L6 8L9.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+          </button>
+          <div class="language-dropdown" role="menu">
+            <button role="menuitem" data-lang="en" class="active">English</button>
+            <button role="menuitem" data-lang="zh-s">简体中文</button>
+            <button role="menuitem" data-lang="zh-t">繁體中文</button>
+          </div>
+        </div>
       </div>
     </div>
   </footer>
