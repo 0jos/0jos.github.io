@@ -36,7 +36,7 @@
 
       // Hero
       'hero.title': 'Let Your Civic Compass Guide the Way',
-      'hero.tagline': 'Free, accessible civic education to help you understand your rights, find community resources, and make your voice heard.',
+      'hero.tagline': 'Know your rights. Find local help. Make your voice heard—in English, 简体中文, and 繁體中文.',
       'hero.cta.rights': 'Know Your Rights',
       'hero.cta.resources': 'Find Resources',
 
@@ -397,7 +397,7 @@
 
       // Hero
       'hero.title': '让公民指南针指引您的方向',
-      'hero.tagline': '免费、无障碍的公民教育，帮助您了解自己的权利、寻找社区资源，并发出自己的声音。',
+      'hero.tagline': '了解您的权利。寻找本地帮助。发出您的声音——提供英文、简体中文和繁體中文版本。',
       'hero.cta.rights': '了解您的权利',
       'hero.cta.resources': '寻找资源',
 
@@ -758,7 +758,7 @@
 
       // Hero
       'hero.title': '讓公民指南針指引您的方向',
-      'hero.tagline': '免費、無障礙的公民教育，幫助您了解自己的權利、尋找社區資源，並發出自己的聲音。',
+      'hero.tagline': '了解您的權利。尋找本地幫助。發出您的聲音——提供英文、简体中文和繁體中文版本。',
       'hero.cta.rights': '了解您的權利',
       'hero.cta.resources': '尋找資源',
 
