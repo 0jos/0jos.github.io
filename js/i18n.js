@@ -26,6 +26,7 @@
       'nav.voting': 'Voting',
       'nav.contact': 'Contact Reps',
       'nav.faq': 'FAQ',
+      'nav.newsletter': 'Newsletter',
 
       // News
       'news.title': 'Community News',
@@ -387,6 +388,7 @@
       'nav.voting': '投票',
       'nav.contact': '联系代表',
       'nav.faq': '常见问题',
+      'nav.newsletter': '订阅',
 
       // News
       'news.title': '社区新闻',
@@ -748,6 +750,7 @@
       'nav.voting': '投票',
       'nav.contact': '聯繫代表',
       'nav.faq': '常見問題',
+      'nav.newsletter': '訂閱',
 
       // News
       'news.title': '社區新聞',
