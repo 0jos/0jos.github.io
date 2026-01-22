@@ -108,6 +108,9 @@
       'faq.subtitle': 'Find answers to common questions about your rights and resources.',
       'faq.search.placeholder': 'Search questions...',
       'faq.no.results': 'No questions found matching your search.',
+      'faq.still.title': 'Still have questions?',
+      'faq.still.desc': 'Explore our learning modules for more detailed information.',
+      'faq.still.resources': 'Find Resources',
 
       // Page headers
       'page.rights.title': 'Know Your Rights',
@@ -466,6 +469,9 @@
       'faq.subtitle': '查找有关您的权利和资源的常见问题的答案。',
       'faq.search.placeholder': '搜索问题...',
       'faq.no.results': '没有找到与您搜索匹配的问题。',
+      'faq.still.title': '还有问题吗？',
+      'faq.still.desc': '探索我们的学习模块以获取更多详细信息。',
+      'faq.still.resources': '查找资源',
 
       // Page headers
       'page.rights.title': '了解您的权利',
@@ -824,6 +830,9 @@
       'faq.subtitle': '查找有關您的權利和資源的常見問題的答案。',
       'faq.search.placeholder': '搜索問題...',
       'faq.no.results': '沒有找到與您搜索匹配的問題。',
+      'faq.still.title': '還有問題嗎？',
+      'faq.still.desc': '探索我們的學習模組以獲取更多詳細資訊。',
+      'faq.still.resources': '查找資源',
 
       // Page headers
       'page.rights.title': '了解您的權利',
