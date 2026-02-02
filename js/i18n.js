@@ -94,7 +94,7 @@
       'footer.feedback': 'Share Feedback',
       'footer.feedback.desc': 'Help us improve this resource for our community.',
       'footer.feedback.btn': 'Give Feedback',
-      'footer.partners': 'In partnership with:',
+      'footer.partners': 'Resources Consulted:',
       'footer.rights': 'All rights reserved.',
 
       // Modal
@@ -456,7 +456,7 @@
       'footer.feedback': '分享反馈',
       'footer.feedback.desc': '帮助我们改进这个社区资源。',
       'footer.feedback.btn': '提供反馈',
-      'footer.partners': '合作伙伴：',
+      'footer.partners': '参考资源：',
       'footer.rights': '保留所有权利。',
 
       // Modal
@@ -818,7 +818,7 @@
       'footer.feedback': '分享反饋',
       'footer.feedback.desc': '幫助我們改進這個社區資源。',
       'footer.feedback.btn': '提供反饋',
-      'footer.partners': '合作夥伴：',
+      'footer.partners': '參考資源：',
       'footer.rights': '保留所有權利。',
 
       // Modal
